@@ -19,3 +19,5 @@ If you have any suggestions, improvements, or alternative solutions, please feel
 A big thank you to the Exercism community for providing a platform to practice and improve coding skills.
 
 Happy coding!
+
+Gonna be busy for a bit. Might have to slow down on the commits. See ya in a bit guys!
